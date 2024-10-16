@@ -1,3 +1,10 @@
 h3 {
   text-align: center;
 }
+
+.card {
+  border-style: solid;
+  border-color: #ef1010;
+  border-width: 1px;
+  width: 250px;
+}
